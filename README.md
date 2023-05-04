@@ -2,7 +2,7 @@
 
 ## Description
 
-This application manages products stored on a Mysql database for an e=commerce website. It was built using MySql, Express, Sequelize, dotenv. 
+This application manages products stored on a Mysql database for an e=commerce website. It was built using MySql, Express, Sequelize, and dotenv. 
 
 ## Video-Demo
 
@@ -24,7 +24,7 @@ To install this application, the code can be copied and installed using (npm ins
 
 ## Usage
 
-This application can be utilized by using a program that interacts with the API, example (Postman or Insomnia). The user can make different 'get' requests to the database to return data for products, product categories, and product tags. The user can also use 'post' requests to create new products, categories, and tags. Lastly users can update products using a 'put' request, and delete data using a 'del' request. The port can be stopped from the terminal using (ctrl + c).
+This application can be utilized by using a program that interacts with the API, example (Postman or Insomnia). The user can make different 'get' requests to the database to return data for products, product categories, and product tags. The user can also use 'post' requests to create new products, categories, and tags. Lastly users can update products, categories, and tags using a 'put' request, and delete data using a 'del' request. The port can be stopped from the terminal using (ctrl + c).
 
 ## Contributing
 
