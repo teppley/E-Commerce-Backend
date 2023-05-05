@@ -2,7 +2,7 @@
 
 ## Description
 
-This application manages products stored on a Mysql database for an e=commerce website. It was built using MySql, Express, Sequelize, and dotenv. 
+This application manages products stored on a Mysql database for an e-commerce website. It was built using MySql, Express, Sequelize, and dotenv. 
 
 ## Video-Demo
 
